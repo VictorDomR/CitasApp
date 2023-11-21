@@ -2,5 +2,8 @@
     "dotnet.defaultSolution": "CitasApp.sln",
     "cSpell.words": [
         "toastr"
-    ]
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
 }
